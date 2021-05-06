@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Say Goodbye" android:id="@+id/say_item" />
+    <item android:title="Hide others buttons" android:id="@+id/hide_item" />
+    <item android:title="Show others buttons" android:id="@+id/show_item" />
+    <item android:title="An" android:id="@+id/an_item" />
+</menu>
